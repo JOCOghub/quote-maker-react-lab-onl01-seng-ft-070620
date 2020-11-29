@@ -1,3 +1,4 @@
+import uuid from 'uuid';
 import { combineReducers } from 'redux';
 import quotes from './quotes';
 
